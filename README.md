@@ -1,3 +1,21 @@
+# Симулятор дорожного движения
+
+Можно посмотреть, почему появляются пробки, какие типы развязок эффективнее, как влияет количество грузовиков, дорожные знаки и светофоры на трафик, к чему приводит увеличение и уменьшение максимальной скорости потока.
+
+Попроще:
+
+http://traffic-simulation.de
+
+http://www.warski.org/traffic
+
+http://volkhin.com/RoadTrafficSimulator/
+
+Посложнее:
+
+http://sumo.sourceforge.net
+
+https://www.anylogic.com/road-traffic/
+
 # traffic-simulation.de
 Source code for the interactive Javascript simulation at  [traffic-simulation.de](https://traffic-simulation.de)
 
